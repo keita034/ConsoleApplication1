@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello　World!\n";
+    std::cout << "コンフリクトを解決\n";
     std::cout << "新規ブランチでこの行を追加\n";
 }
 
